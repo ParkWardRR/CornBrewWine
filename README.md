@@ -82,4 +82,3 @@ This guide provides detailed, step-by-step instructions for brewing Sparkling Co
 
 For a total yield of 1.5 gallons, you will need approximately 6 bottles of 750ml each. Adjust the number of bottles based on the exact yield and desired serving size.
 
-Sources
