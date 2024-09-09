@@ -1,13 +1,13 @@
 ## Corn-Based Beverage Brewing Playbook
 
-This guide provides detailed, step-by-step instructions for brewing various corn-based beverages, with a focus on Briess Pilsen Malt and oat-based brews. Each recipe is designed to achieve specific alcohol content and a clean, refreshing taste.
+This guide offers detailed, step-by-step instructions for experimenting with an undistilled wheated bourbon. Each recipe is crafted to explore different grain combinations and fermentation processes, aiming to achieve specific alcohol content and unique flavor profiles.
 
 ### Total Ingredients (For 1.5 Gallons Total Yield)
 
-- **Briess Pilsen Malt**: 16 oz
 - **Crisp Flaked Corn (Torrefied Maize)**: 16 oz
-- **Briess Flaked Barley (Unmalted)**: 8 oz
 - **Flaked White Wheat**: 8 oz
+- **Barley (Type may vary)**: 8 oz
+- **Rice Hulls**: 0.5 oz
 - **Liberty Hops Pellets**: 0.17 oz (for Hopped Brews)
 - **Champagne Yeast (White Labs WLP715)**: For Sparkling Beverage
 - **Cream Ale Yeast Blend (White Labs WLP080)**: For Hopped Brews
@@ -15,52 +15,42 @@ This guide provides detailed, step-by-step instructions for brewing various corn
 - **Water**: Approximately 1.5 gallons
 - **Glucoamylase Enzyme**: Optional, to aid in starch conversion
 - **Oats**: 8 oz (for Oat-Based IPA)
-- **Rice Hulls**: 0.5 oz per beverage
 - **Lactose**: 0.5 oz per gallon (for Lactose Variant)
 
-### Batch 1: Briess Pilsen Malt Variations
+### Batch Variations
+
+Each batch follows the same corn, wheat, and barley ratio, with the option to change the type of barley used.
+
+#### Batch 1: Briess Pilsen Malt Variations
 
 - **Briess Pilsen Malt Brew**: A clean, smooth malt profile.
 - **Sparkling Beverage**: Mimics wine with a sparkling finish.
 - **Hopped Briess Pilsen Malt Brew**: A lightly hopped version for added flavor.
 
-### Batch 2: Oat-Based Variations
+#### Batch 2: Oat-Based Variations
 
 - **Oat-Based IPA Brew**: Brewed with oats for a hazy, creamy profile.
 - **Oat-Based IPA with Lactose**: Adds creaminess and sweetness.
 - **Hopped Oat-Based Brew**: A lightly hopped version for added flavor.
 
-### Batch 3.1: Briess Pilsen Variations
+#### Batch 3.1: Briess Pilsen Variations
 
 - **Briess Pilsen Malt Brew**: Same as Batch 1 for consistency.
 - **Hopped Briess Pilsen Malt Brew**: A lightly hopped version for added flavor.
 
-### Batch 3.2: Unmalted Variations
+#### Batch 3.2: Unmalted Variations
 
 - **Unmalted Brew**: Utilizing Briess Flaked Barley for a unique taste.
 - **Hopped Unmalted Brew**: A lightly hopped version for added flavor.
 
 ### Grain Quantities for Each Batch
 
-- **Batch 1 Ingredients**:
-  - Briess Pilsen Malt: 16 oz
-  - Crisp Flaked Corn (Torrefied Maize): 16 oz
-  - Briess Flaked Barley (Unmalted): 8 oz
-  - Flaked White Wheat: 8 oz
-
-- **Batch 2 Ingredients**:
-  - Oats: 8 oz
-  - Crisp Flaked Corn (Torrefied Maize): 16 oz
-  - Rice Hulls: 0.5 oz per beverage
-  - Lactose: 0.5 oz per gallon for Lactose Variant
-
-- **Batch 3.1 Ingredients**:
-  - Briess Pilsen Malt: 16 oz
-  - Crisp Flaked Corn (Torrefied Maize): 16 oz
-
-- **Batch 3.2 Ingredients**:
-  - Briess Flaked Barley (Unmalted): 8 oz
-  - Crisp Flaked Corn (Torrefied Maize): 16 oz
+| Batch    | Crisp Flaked Corn (oz) | Flaked White Wheat (oz) | Briess Flaked Barley (Unmalted) (oz) | Briess Pilsen Malt (oz) | Rice Hulls (oz) | Oats (oz) | Lactose (oz) |
+|----------|------------------------|-------------------------|--------------------------------------|-------------------------|-----------------|-----------|--------------|
+| Batch 1  | 16                     | 8                       | 0                                    | 16                      | 0.5             | 0         | 0            |
+| Batch 2  | 16                     | 8                       | 0                                    | 16                      | 0.5             | 8         | 0.5 per gallon |
+| Batch 3.1| 16                     | 8                       | 0                                    | 16                      | 0.5             | 0         | 0            |
+| Batch 3.2| 16                     | 8                       | 8                                    | 0                       | 0.5             | 0         | 0            |
 
 ### Equipment
 
