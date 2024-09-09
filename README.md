@@ -1,18 +1,66 @@
 ## Corn-Based Beverage Brewing Playbook
 
-This guide provides detailed, step-by-step instructions for brewing Sparkling Corn Beverage, Lightly Hopped Corn Brew, and Non-Hopped Corn Brew. Each recipe is designed to achieve specific alcohol content and a clean, refreshing taste.
+This guide provides detailed, step-by-step instructions for brewing various corn-based beverages, with a focus on Briess Pilsen Malt and oat-based brews. Each recipe is designed to achieve specific alcohol content and a clean, refreshing taste.
 
 ### Total Ingredients (For 1.5 Gallons Total Yield)
 
+- **Briess Pilsen Malt**: 16 oz
 - **Crisp Flaked Corn (Torrefied Maize)**: 16 oz
 - **Briess Flaked Barley (Unmalted)**: 8 oz
 - **Flaked White Wheat**: 8 oz
-- **Liberty Hops Pellets**: 0.17 oz (for Lightly Hopped Corn Brew)
-- **Champagne Yeast (White Labs WLP715)**: For Sparkling Corn Beverage
-- **Cream Ale Yeast Blend (White Labs WLP080)**: For Lightly Hopped Corn Brew
+- **Liberty Hops Pellets**: 0.17 oz (for Hopped Brews)
+- **Champagne Yeast (White Labs WLP715)**: For Sparkling Beverage
+- **Cream Ale Yeast Blend (White Labs WLP080)**: For Hopped Brews
 - **Priming Sugar**: Approximately 0.75 oz (21 g)
 - **Water**: Approximately 1.5 gallons
 - **Glucoamylase Enzyme**: Optional, to aid in starch conversion
+- **Oats**: 8 oz (for Oat-Based IPA)
+- **Rice Hulls**: 0.5 oz per beverage
+- **Lactose**: 0.5 oz per gallon (for Lactose Variant)
+
+### Batch 1: Briess Pilsen Malt Variations
+
+- **Briess Pilsen Malt Brew**: A clean, smooth malt profile.
+- **Sparkling Beverage**: Mimics wine with a sparkling finish.
+- **Hopped Briess Pilsen Malt Brew**: A lightly hopped version for added flavor.
+
+### Batch 2: Oat-Based Variations
+
+- **Oat-Based IPA Brew**: Brewed with oats for a hazy, creamy profile.
+- **Oat-Based IPA with Lactose**: Adds creaminess and sweetness.
+- **Hopped Oat-Based Brew**: A lightly hopped version for added flavor.
+
+### Batch 3.1: Briess Pilsen Variations
+
+- **Briess Pilsen Malt Brew**: Same as Batch 1 for consistency.
+- **Hopped Briess Pilsen Malt Brew**: A lightly hopped version for added flavor.
+
+### Batch 3.2: Unmalted Variations
+
+- **Unmalted Brew**: Utilizing Briess Flaked Barley for a unique taste.
+- **Hopped Unmalted Brew**: A lightly hopped version for added flavor.
+
+### Grain Quantities for Each Batch
+
+- **Batch 1 Ingredients**:
+  - Briess Pilsen Malt: 16 oz
+  - Crisp Flaked Corn (Torrefied Maize): 16 oz
+  - Briess Flaked Barley (Unmalted): 8 oz
+  - Flaked White Wheat: 8 oz
+
+- **Batch 2 Ingredients**:
+  - Oats: 8 oz
+  - Crisp Flaked Corn (Torrefied Maize): 16 oz
+  - Rice Hulls: 0.5 oz per beverage
+  - Lactose: 0.5 oz per gallon for Lactose Variant
+
+- **Batch 3.1 Ingredients**:
+  - Briess Pilsen Malt: 16 oz
+  - Crisp Flaked Corn (Torrefied Maize): 16 oz
+
+- **Batch 3.2 Ingredients**:
+  - Briess Flaked Barley (Unmalted): 8 oz
+  - Crisp Flaked Corn (Torrefied Maize): 16 oz
 
 ### Equipment
 
@@ -29,21 +77,29 @@ This guide provides detailed, step-by-step instructions for brewing Sparkling Co
 1. **Preparation and Mashing**
    - Clean and sanitize all equipment thoroughly.
    - Use filtered or spring water to avoid impurities.
-   - Combine 16 oz of Crisp Flaked Corn, 8 oz of Briess Flaked Barley, and 8 oz of Flaked White Wheat in the brew pot.
+   - Combine the grains for each batch as listed above in the brew pot.
+   - Add 0.5 oz of rice hulls per beverage to prevent a stuck mash.
    - Heat 1.5 gallons of water to 162°F (72°C) and add to the grains, maintaining a mash temperature of 148°F (64°C) for 60 minutes.
 
-2. **Determining the Need for Glucoamylase Enzyme**
+2. **Oat-Based IPA Brew (Batch 2)**
+   - For the Oat-Based IPA, brew a separate mash with oats and the other grains.
+   - Add lactose during the last 5 minutes of the boil for the Lactose Variant.
+
+3. **Determining the Need for Glucoamylase Enzyme**
    - After 30 minutes of mashing, perform an iodine test by placing a small sample of wort on a white plate and adding a drop of iodine solution.
    - If the iodine turns blue/purple, indicating incomplete starch conversion, consider adding glucoamylase enzyme.
    - If the iodine remains amber, starch conversion is complete.
 
-3. **Monitoring Starch Conversion**
+4. **Monitoring Starch Conversion**
    - Continue monitoring starch conversion with periodic iodine tests until the iodine remains amber.
 
-4. **Boiling and Hopping (for Lightly Hopped Corn Brew)**
+5. **Dividing the Recipe**
+   - Divide the mash into separate containers for hopping and non-hopping processes.
+
+6. **Boiling and Hopping (for Hopped Brews)**
    - Boil the mash and add 0.17 oz Liberty hops during the last 15 minutes.
 
-5. **Cooling and Fermentation Preparation**
+7. **Cooling and Fermentation Preparation**
    - Cool the mash to room temperature.
    - Measure the Original Gravity (OG) using a hydrometer:
      - Aim for an OG of 1.080 for wine-like strength (10-12% ABV).
@@ -51,34 +107,38 @@ This guide provides detailed, step-by-step instructions for brewing Sparkling Co
    - Adjust sugar content if necessary to reach the desired OG.
    - Divide the cooled mash into three 750ml portions.
 
-6. **Yeast Pitching**
-   - Add Champagne yeast (WLP715) to the first portion for Sparkling Corn Beverage.
-   - Add Cream Ale yeast blend (WLP080) to the second portion for Lightly Hopped Corn Brew.
+8. **Yeast Pitching**
+   - Add Champagne yeast (WLP715) to the first portion for Sparkling Beverage.
+   - Add Cream Ale yeast blend (WLP080) to the second portion for Hopped Brews.
 
-7. **Fermentation**
+9. **Fermentation**
    - Transfer each portion into separate fermenters with airlocks.
    - Maintain a consistent fermentation temperature appropriate for the yeast strain used.
    - Allow fermentation to proceed until specific gravity stabilizes.
 
-8. **Measuring and Aiming for Final Gravity (FG)**
-   - Once fermentation is complete, measure the Final Gravity (FG) using a hydrometer.
-   - For Sparkling Corn Beverage, aim for an FG that achieves 10-12% ABV.
-   - For Lightly Hopped Corn Brew, aim for an FG that achieves 5-7% ABV.
+10. **Measuring and Aiming for Final Gravity (FG)**
+    - Once fermentation is complete, measure the Final Gravity (FG) using a hydrometer.
+    - For Sparkling Beverage, aim for an FG that achieves 10-12% ABV.
+    - For Hopped Brews, aim for an FG that achieves 5-7% ABV.
 
-9. **Priming and Bottling**
-   - Add 0.75 oz of priming sugar to the entire batch.
-   - Carefully siphon each portion into 750ml bottles, leaving sediment behind.
-   - Seal each bottle tightly.
+11. **Priming and Bottling**
+    - Add 0.75 oz of priming sugar to the entire batch.
+    - Carefully siphon each portion into 750ml bottles, leaving sediment behind.
+    - Seal each bottle tightly.
 
-10. **Conditioning**
+12. **Conditioning**
     - Store bottles in a dark place at room temperature for 1-2 weeks for carbonation.
     - Check pressure periodically.
 
-11. **Serving**
+13. **Serving**
     - Once carbonation is achieved, chill the bottles in the refrigerator.
     - Serve cold to minimize foaming.
 
+### Wort and Hopping Quantities
+
+- **Wort Preparation**: Approximately 1.5 gallons of wort is prepared for each batch.
+- **Hopping Quantities**: For the Hopped Briess Pilsen Malt Brew, use 0.17 oz of Liberty hops during the last 15 minutes of the boil.
+
 ### Bottling
 
-For a total yield of 1.5 gallons, you will need approximately 6 bottles of 750ml each. Adjust the number of bottles based on the exact yield and desired serving size.
-
+For a total yield of 1.5 gallons, you will need approximately 8 bottles of 750ml each. Adjust the number of bottles based on the exact yield and desired serving size.
