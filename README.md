@@ -4,9 +4,9 @@ This guide offers detailed, step-by-step instructions for experimenting with an 
 
 ### Total Ingredients (For 1.5 Gallons Total Yield)
 
-- **Crisp Flaked Corn (Torrefied Maize)**: 16 oz
-- **Flaked White Wheat**: 8 oz
-- **Barley (Type may vary)**: 8 oz
+- **Crisp Flaked Corn (Torrefied Maize)**: 28 oz
+- **Flaked White Wheat**: 6 oz
+- **Briess Flaked Barley (Unmalted)**: 6 oz
 - **Rice Hulls**: 0.5 oz
 - **Liberty Hops Pellets**: 0.17 oz (for Hopped Brews)
 - **Champagne Yeast (White Labs WLP715)**: For Sparkling Beverage
@@ -14,8 +14,8 @@ This guide offers detailed, step-by-step instructions for experimenting with an 
 - **Priming Sugar**: Approximately 0.75 oz (21 g)
 - **Water**: Approximately 1.5 gallons
 - **Glucoamylase Enzyme**: Optional, to aid in starch conversion
-- **Oats**: 8 oz (for Oat-Based IPA)
-- **Lactose**: 0.5 oz per gallon (for Lactose Variant)
+- **Oats**: Optional
+- **Lactose**: Optional
 
 ### Batch Variations
 
@@ -27,11 +27,10 @@ Each batch follows the same corn, wheat, and barley ratio, with the option to ch
 - **Sparkling Beverage**: Mimics wine with a sparkling finish.
 - **Hopped Briess Pilsen Malt Brew**: A lightly hopped version for added flavor.
 
-#### Batch 2: Oat-Based Variations
+#### Batch 2: Wheated Bourbon Variations
 
-- **Oat-Based IPA Brew**: Brewed with oats for a hazy, creamy profile.
-- **Oat-Based IPA with Lactose**: Adds creaminess and sweetness.
-- **Hopped Oat-Based Brew**: A lightly hopped version for added flavor.
+- **Wheated Bourbon Brew**: A smooth and sweet profile with a higher corn content.
+- **Hopped Wheated Bourbon Brew**: A lightly hopped version for added flavor.
 
 #### Batch 3.1: Briess Pilsen Variations
 
@@ -47,10 +46,10 @@ Each batch follows the same corn, wheat, and barley ratio, with the option to ch
 
 | Batch    | Crisp Flaked Corn (oz) | Flaked White Wheat (oz) | Briess Flaked Barley (Unmalted) (oz) | Briess Pilsen Malt (oz) | Rice Hulls (oz) | Oats (oz) | Lactose (oz) |
 |----------|------------------------|-------------------------|--------------------------------------|-------------------------|-----------------|-----------|--------------|
-| Batch 1  | 16                     | 8                       | 0                                    | 16                      | 0.5             | 0         | 0            |
-| Batch 2  | 16                     | 8                       | 0                                    | 16                      | 0.5             | 8         | 0.5 per gallon |
-| Batch 3.1| 16                     | 8                       | 0                                    | 16                      | 0.5             | 0         | 0            |
-| Batch 3.2| 16                     | 8                       | 8                                    | 0                       | 0.5             | 0         | 0            |
+| Batch 1  | 28                     | 6                       | 6                                    | 16                      | 0.5             | 0         | 0            |
+| Batch 2  | 28                     | 6                       | 6                                    | 16                      | 0.5             | 0         | 0            |
+| Batch 3.1| 28                     | 6                       | 6                                    | 16                      | 0.5             | 0         | 0            |
+| Batch 3.2| 28                     | 6                       | 6                                    | 0                       | 0.5             | 0         | 0            |
 
 ### Equipment
 
@@ -71,9 +70,9 @@ Each batch follows the same corn, wheat, and barley ratio, with the option to ch
    - Add 0.5 oz of rice hulls per beverage to prevent a stuck mash.
    - Heat 1.5 gallons of water to 162°F (72°C) and add to the grains, maintaining a mash temperature of 148°F (64°C) for 60 minutes.
 
-2. **Oat-Based IPA Brew (Batch 2)**
-   - For the Oat-Based IPA, brew a separate mash with oats and the other grains.
-   - **Lactose Addition**: Add 0.5 oz of lactose per gallon during the last 5 minutes of the boil for the Lactose Variant.
+2. **Wheated Bourbon Brew (Batch 2)**
+   - For the Wheated Bourbon, brew with the specified grain ratios.
+   - **Lactose Addition**: Optional, based on desired sweetness.
 
 3. **Determining the Need for Glucoamylase Enzyme**
    - After 30 minutes of mashing, perform an iodine test by placing a small sample of wort on a white plate and adding a drop of iodine solution.
@@ -132,3 +131,13 @@ Each batch follows the same corn, wheat, and barley ratio, with the option to ch
 ### Bottling
 
 For a total yield of 1.5 gallons, you will need approximately 8 bottles per batch of 750ml each. Adjust the number of bottles based on the exact yield and desired serving size.
+
+Citations:
+[1] https://distiller.com/articles/bourbon-fundamentals
+[2] https://modernthirst.com/home/bourbon-whiskey-mash-bills/
+[3] https://www.whiskeyprof.com/recipes-maturation-distilling-grains%E2%80%A6/
+[4] https://www.reddit.com/r/whiskey/comments/15neh7g/please_can_someone_explain_to_me_in_simple_terms/
+[5] https://www.newriffdistilling.com/what-are-the-different-whiskey-and-bourbon-gains/
+[6] http://www.brewhausforum.com/yaf_postsm19552findunread_Grain-ratios.aspx
+[7] http://bourbonr.com/blog/bourbon-mash-bill-explained/
+[8] https://www.gentlemenranters.com/wheated-bourbon-guide/
