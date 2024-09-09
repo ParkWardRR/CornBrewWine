@@ -83,7 +83,7 @@ This guide provides detailed, step-by-step instructions for brewing various corn
 
 2. **Oat-Based IPA Brew (Batch 2)**
    - For the Oat-Based IPA, brew a separate mash with oats and the other grains.
-   - Add lactose during the last 5 minutes of the boil for the Lactose Variant.
+   - **Lactose Addition**: Add 0.5 oz of lactose per gallon during the last 5 minutes of the boil for the Lactose Variant.
 
 3. **Determining the Need for Glucoamylase Enzyme**
    - After 30 minutes of mashing, perform an iodine test by placing a small sample of wort on a white plate and adding a drop of iodine solution.
@@ -141,4 +141,4 @@ This guide provides detailed, step-by-step instructions for brewing various corn
 
 ### Bottling
 
-For a total yield of 1.5 gallons, you will need approximately 8 bottles of 750ml each. Adjust the number of bottles based on the exact yield and desired serving size.
+For a total yield of 1.5 gallons, you will need approximately 8 bottles per batch of 750ml each. Adjust the number of bottles based on the exact yield and desired serving size.
