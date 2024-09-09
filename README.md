@@ -2,17 +2,17 @@
 
 This guide offers detailed, step-by-step instructions for experimenting with an undistilled wheated bourbon. Each recipe is crafted to explore different grain combinations and fermentation processes, aiming to achieve specific alcohol content and unique flavor profiles.
 
-### Total Ingredients (For 6 Gallons Total Yield)
+### Total Ingredients (For 6 total Gallons Total Yield, 1.5 gal batches)
 
-- **Crisp Flaked Corn (Torrefied Maize)**: 100 oz
-- **Flaked White Wheat**: 64 oz
-- **Briess Flaked Barley (Unmalted)**: 32 oz
-- **Flaked Oats**: 32 oz
+- **Crisp Flaked Corn (Torrefied Maize)**: 500 oz
+- **Flaked White Wheat**: 320 oz
+- **Briess Flaked Barley (Unmalted)**: 64 oz
+- **Flaked Oats**: 64 oz
 - **Lactose**: 16 oz (1 lb)
 - **Liberty Hops Pellets**: 1 oz
 - **Champagne Yeast (White Labs WLP715)**: 1 pack
 - **Cream Ale Yeast Blend (White Labs WLP080)**: 1 pack
-- **Briess Pilsen Malt**: 32 oz
+- **Briess Pilsen Malt**: 64 oz
 
 ### Batch Variations
 
@@ -40,11 +40,11 @@ Each batch follows the same corn, wheat, and barley ratio, with the specified va
 
 | Batch                   | Crisp Flaked Corn (oz) | Flaked White Wheat (oz) | Briess Flaked Barley (Unmalted) (oz) | Briess Pilsen Malt (oz) | Flaked Oats (oz) | Lactose (oz) |
 |-------------------------|------------------------|-------------------------|--------------------------------------|-------------------------|------------------|--------------|
-| Batch 1                 | 25                     | 16                      | 8                                    | 0                       | 0                | 0            |
-| Batch 2                 | 25                     | 16                      | 0                                    | 8                       | 8                | 0            |
-| Batch 3                 | 25                     | 16                      | 8                                    | 0                       | 0                | 0            |
-| Batch 4                 | 25                     | 16                      | 0                                    | 8                       | 0                | 0            |
-| Oats Lactose Variation  | 25                     | 16                      | 0                                    | 0                       | 8                | 4            |
+| Batch 1                 | 100                    | 64                      | 32                                   | 0                       | 0                | 0            |
+| Batch 2                 | 100                    | 64                      | 0                                    | 32                      | 32               | 0            |
+| Batch 3                 | 100                    | 64                      | 32                                   | 0                       | 0                | 0            |
+| Batch 4                 | 100                    | 64                      | 0                                    | 32                      | 0                | 0            |
+| Oats Lactose Variation  | 100                    | 64                      | 0                                    | 0                       | 32               | 16           |
 
 ### Brewing Process
 
